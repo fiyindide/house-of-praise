@@ -1,0 +1,50 @@
+body {
+    background-color: white;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+
+}
+nav {
+    color: white;
+    background-color: olive;
+    font-weight: bold;
+    font-size: 20pt;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    background-color: rgb(204, 204, 153);
+
+}
+.logo {
+    text-align: center;
+    color: green;
+    font-weight: bold;
+
+}
+.pictures {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+h1 {
+    font-size: 30pt;
+
+}
+.base {
+    background-color: rgb(204, 204, 153);
+    width: 100%;
+    text-align: center;
+    font-size: 15pt;
+    border-bottom: 5pt solid rgb(128, 144, 80);
+    border-top: 5pt solid rgb(128, 144, 80);
+    
+}
+.copy {
+    background-color: olive;
+    font-size: 15pt;
+    border-top: 5pt solid olive;
+    border-bottom: 5pt solid rgb(128, 144, 80);
+}
