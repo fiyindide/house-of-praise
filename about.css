@@ -1,7 +1,8 @@
 body {
     background-color: white;
     margin: 0 auto;
-    width: 80%;
+    width: 100%;
+    text-align: center;
 
 }
 nav {
@@ -9,7 +10,6 @@ nav {
     background-color: olive;
     font-weight: bold;
     font-size: 20pt;
-    text-align: center;
 }
 a {
     color: white;
@@ -17,22 +17,8 @@ a {
 }
 a:hover {
     background-color: rgb(204, 204, 153);
+}
 
-}
-.logo {
-    text-align: center;
-    color: green;
-    font-weight: bold;
-
-}
-.pictures {
-    margin-bottom: 5px;
-    padding-bottom: 5px;
-}
-h1 {
-    font-size: 30pt;
-
-}
 .base {
     background-color: rgb(204, 204, 153);
     width: 100%;
@@ -47,4 +33,14 @@ h1 {
     font-size: 15pt;
     border-top: 5pt solid olive;
     border-bottom: 5pt solid rgb(128, 144, 80);
+}
+.note {
+    font-size: large;
+    margin: 0 auto;
+    width: 80%;
+    text-align: justify;
+}
+.pic {
+    width: 80%;
+    text-align: left;
 }
